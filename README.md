@@ -18,6 +18,7 @@ This repository contains my solutions to the 5 mandatory HackerRank problems for
 HackerRank-3rdSem-Portfolio/
 │
 ├── Diagonal-Difference/
+<<<<<<< HEAD
 │   ├── Diagonal-Difference.py
 │   ├── Diagonal-Difference.md
 │   └── Diagonal-Difference.png
@@ -43,6 +44,26 @@ HackerRank-3rdSem-Portfolio/
 │   └── Sparse-Arrays.png
 │
 └── README.md
+=======
+│   ├── solution.py
+│   └── README.md
+│
+├── Dynamic-Array/
+│   ├── solution.py
+│   └── README.md
+│
+├── Time-Conversion/
+│   ├── solution.py
+│   └── README.md
+│
+├── Compare-the-Triplets/
+│   ├── solution.py
+│   └── README.md
+│
+└── Sparse-Arrays/
+    ├── solution.py
+    └── README.md
+>>>>>>> c2966fff0fd82d76c1387aa4a05fadd5bb6d9d3d
 ```
 
 ## Learning Objectives
