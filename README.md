@@ -18,29 +18,29 @@ This repository contains my solutions to the 5 mandatory HackerRank problems for
 HackerRank-3rdSem-Portfolio/
 │
 ├── Diagonal-Difference/
-│   ├── Diagonal-Difference.py
-│   ├── Diagonal-Difference.md
-│   └── Diagonal-Difference.png
+│   ├── Diagonal Difference.py
+│   ├── Diagonal Difference.md
+│   └── Diagonal Difference.png
 │
 ├── Dynamic-Array/
-│   ├── Dynamic-Array.py
-│   ├── Dynamic-Array.md
-│   └── Dynamic-Array.png
+│   ├── Dynamic Array.py
+│   ├── Dynamic Array.md
+│   └── Dynamic Array.png
 │
 ├── Time-Conversion/
-│   ├── Time-Conversion.py
-│   ├── Time-Conversion.md
-│   └── Time-Conversion.png
+│   ├── Time Conversion.py
+│   ├── Time Conversion.md
+│   └── Time Conversion.png
 │
 ├── Compare-the-Triplets/
-│   ├── Compare-the-Triplets.py
-│   ├── Compare-the-Triplets.md
-│   └── Compare-the-Triplets.png
+│   ├── Compare the Triplets.py
+│   ├── Compare the Triplets.md
+│   └── Compare the Triplets.png
 │
 ├── Sparse-Arrays/
-│   ├── Sparse-Arrays.py
-│   ├── Sparse-Arrays.md
-│   └── Sparse-Arrays.png
+│   ├── Sparse Arrays.py
+│   ├── Sparse Arrays.md
+│   └── Sparse Arrays.png
 │
 ├── HackerRank-3-Star-Badge.png
 └── README.md
