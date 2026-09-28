@@ -22,23 +22,23 @@ hackerrank-solutions/
 ├── README.md
 │
 ├── Diagonal-Difference/
-│   ├── solution.cpp
+│   ├── solution.py
 │   └── README.md
 │
 ├── Dynamic-Array/
-│   ├── solution.cpp
+│   ├── solution.py
 │   └── README.md
 │
 ├── Time-Conversion/
-│   ├── solution.cpp
+│   ├── solution.py
 │   └── README.md
 │
 ├── Compare-the-Triplets/
-│   ├── solution.cpp
+│   ├── solution.py
 │   └── README.md
 │
 └── Sparse-Arrays/
-    ├── solution.cpp
+    ├── solution.py
     └── README.md
 ```
 
