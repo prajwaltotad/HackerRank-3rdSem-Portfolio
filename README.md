@@ -14,7 +14,7 @@ This repository contains my solutions to the 5 mandatory HackerRank problems for
 
 ## Repository Structure
 
-```text id="h6q8mv"
+```
 HackerRank-3rdSem-Portfolio/
 │
 ├── Diagonal-Difference/
@@ -42,26 +42,8 @@ HackerRank-3rdSem-Portfolio/
 │   ├── Sparse-Arrays.md
 │   └── Sparse-Arrays.png
 │
+├── HackerRank-3-Star-Badge.png
 └── README.md
-=======
-│   ├── solution.py
-│   └── README.md
-│
-├── Dynamic-Array/
-│   ├── solution.py
-│   └── README.md
-│
-├── Time-Conversion/
-│   ├── solution.py
-│   └── README.md
-│
-├── Compare-the-Triplets/
-│   ├── solution.py
-│   └── README.md
-│
-└── Sparse-Arrays/
-    ├── solution.py
-    └── README.md
 ```
 
 ## Learning Objectives
